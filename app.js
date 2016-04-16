@@ -14,7 +14,7 @@ AWS.config.update(config.ec2);
 
 var ec2 = new AWS.EC2({
   apiVersion: '2015-10-01',
-  region: 'ap-northeast-1'
+  region: config.ec2.reigon
 });
 
 var newIp = '';
