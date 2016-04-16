@@ -1,6 +1,6 @@
 {
   "name": "ec2_ip_tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Change your EC2 ip address just one key.",
   "main": "app.js",
   "scripts": {
