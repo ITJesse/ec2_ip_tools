@@ -1,6 +1,6 @@
 {
   "name": "ec2_ip_tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change your EC2 ip address just one key.",
   "main": "app.js",
   "scripts": {
@@ -14,5 +14,19 @@
     "cloudflare-api": "^1.0.2",
     "colors": "^1.1.2",
     "prompt": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITJesse/ec2_ip_tools.git"
+  },
+  "keywords": [
+    "EC2",
+    "Elastic",
+    "IP"
+  ],
+  "bugs": {
+    "url": "https://github.com/ITJesse/ec2_ip_tools/issues"
+  },
+  "homepage": "https://github.com/ITJesse/ec2_ip_tools#readme"
 }
