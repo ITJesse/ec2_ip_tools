@@ -1,0 +1,18 @@
+{
+  "name": "ec2_ip_tools",
+  "version": "1.0.0",
+  "description": "Change your EC2 ip address just one key.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ITJesse",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "aws-sdk": "^2.3.3",
+    "cloudflare-api": "^1.0.2",
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0"
+  }
+}
