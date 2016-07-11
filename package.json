@@ -1,10 +1,11 @@
 {
   "name": "ec2_ip_tools",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Change your EC2 ip address just one key.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "ITJesse",
   "license": "GPL-3.0",
